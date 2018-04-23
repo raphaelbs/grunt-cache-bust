@@ -1,11 +1,11 @@
 {
-  "name": "grunt-cache-bust",
-  "description": "Bust static assets from the cache using content hashing",
+  "name": "grunt-cache-recursive",
+  "description": "Fork from grunt-cache-bust",
   "version": "1.6.1",
   "author": "Ben Holland <hi@benholland.me>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hollandben/grunt-cache-bust.git"
+    "url": "git://github.com/raphaelbs/grunt-cache-bust.git"
   },
   "licenses": [
     {
